@@ -5,4 +5,4 @@ This is a complete Learning Management System (LMS) developed using the MERN Sta
 #Backend: Node.js, Express.js
 #Database: MongoDB & Mongoose
 #Security: JWT Authentication & Bcrypt Password Hashing
-The project follows a proper MVC (Model-View-Controller) architecture with separate folders for models, controllers, and routes to ensure industry standards.
+#The project follows a proper MVC (Model-View-Controller) architecture with separate folders for models, controllers, and routes to ensure industry standards.
